@@ -9,7 +9,7 @@ macos/linux
 
 dan langsung bisa menjalankan server nya dengan cara 
 
-deno run "your script"
+deno run  --allow-net --allow-env "your script"
 
 contohnya:
 
